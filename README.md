@@ -5,7 +5,7 @@ This project is a 2D Top-Down shooter game developed in unity 6as part of the HI
  Features
 -player moves using W, A, S, D keys
 -sprint using the shift key
--shootong system with bullets
+-shooting system with bullets
 - enemies placed randomly on a 12 by 12 grid
 - enemy counter UI
 - collision detection between player, bullets and enemies
